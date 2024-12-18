@@ -1,1 +1,2 @@
-This is the Source Code
+.ino file is Arduino code
+.py file is the ML algorithm and UI code
