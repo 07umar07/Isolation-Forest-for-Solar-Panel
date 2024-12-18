@@ -1,0 +1,1 @@
+# Isolation-Forest-for-Solar-Panel
